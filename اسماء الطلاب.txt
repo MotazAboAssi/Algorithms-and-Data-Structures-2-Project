@@ -1,0 +1,13 @@
+فئة 12
+
+نور الدين سردار خان الأفغاني
+معتز فراس أبو عاصي
+مروان نقلي الشهير بالداوودي 
+محمد هاني حوراني
+
+
+الحلول أيضا مرفوعة على حسابي ال github ;
+المسألة الأولى:
+https://github.com/MaouNour/StorageAndProductsManagement
+المسألة الثانية:
+https://github.com/MaouNour/OceansGraph
